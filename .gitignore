@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+raw-data/
+clean-data/
+!clean-data/tb_carreira.csv
